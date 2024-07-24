@@ -14,3 +14,5 @@ Welcome to my GitHub profile! I'm passionate about software engineering and alwa
 
 ### **Crypto-DEX**
 A decentralized exchange platform for trading cryptocurrencies. [🔗 [Link to Project](https://github.com/GaudD/Esummit-Hackathon-2024-Azurites)](#)
+
+[🔗[Live Link](https://dex-solana-one.vercel.app/)](#) (Do not approve any transactions, its on the mainnet, devnet was down when I was making this)
